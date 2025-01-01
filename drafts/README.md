@@ -1,5 +1,5 @@
-# [blog](https://emoh46.github.io/blog/)
+# [blog](https://2345425fsasd.github.io/blog)
 
 ## drafts 
 
-- [draft survey on computational frontiers](https://emoh46.github.io/blog/drafts/DRAFT_Survey%20on%20Computational%20Frontiers.pdf)
+- [draft survey on computational frontiers](https://2345425fsasd.github.io/blog/drafts/DRAFT_Survey%20on%20Computational%20Frontiers.pdf)
