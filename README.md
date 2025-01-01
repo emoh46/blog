@@ -1,4 +1,5 @@
-# [blog](https://emoh46.github.io/blog/)
+# [blog](https://2345425fsasd.github.io/blog/))
 
-- [drafts](https://emoh46.github.io/blog/drafts/)
+- [drafts](https://2345425fsasd.github.io/blog/drafts)
+
 
